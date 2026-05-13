@@ -301,43 +301,47 @@
         <Section class="p-5">
             <div class="container">
                 <div class="row g-4">
-                <div class="col-md">
-                    <h2 class="text-center mb-4">
-                        Contact Info
-                    </h2>
-                    <ul class="lsit-group list-group-flush lead">
-                        <li class="list-group-item">
-                            <span class="fw-bold">
-                                Main Location:
-                            </span>
-                            50, main st Boston MA
-                        </li>
-                        <li class="list-group-item">
-                            <span class="fw-bold">
-                                Enrollment Phone:
-                            </span>
-                            +251464413917
-                        </li>
-                        <li class="list-group-item">
-                            <span class="fw-bold">
-                                Enrollment Email:
-                            </span>
-                            hr@sherethiopia.com
-                        </li>
-                        <li class="list-group-item">
-                            <span class="fw-bold">
-                                Students Email:
-                            </span>
-                            student@sherethiopia.com
-                        </li>
-                    </ul>
+                    <div class="col-md">
+                        <h2 class="text-center mb-4">
+                            Contact Info
+                        </h2>
+                        <ul class="lsit-group list-group-flush lead">
+                            <li class="list-group-item">
+                                <span class="fw-bold">
+                                    Main Location:
+                                </span>
+                                50, main st Boston MA
+                            </li>
+                            <li class="list-group-item">
+                                <span class="fw-bold">
+                                    Enrollment Phone:
+                                </span>
+                                +251464413917
+                            </li>
+                            <li class="list-group-item">
+                                <span class="fw-bold">
+                                    Enrollment Email:
+                                </span>
+                                hr@sherethiopia.com
+                            </li>
+                            <li class="list-group-item">
+                                <span class="fw-bold">
+                                    Students Email:
+                                </span>
+                                student@sherethiopia.com
+                            </li>
+                        </ul>
+                    </div>
                 </div>
+                <div class="row">
+                   <div class="col-md-12 d-flex justify-content-end">
+                    <div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.5741645301714!2d38.71541254441662!3d7.918675969982824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17b49c6011ac0c85%3A0xbe2874ddcd7fa6f7!2sZiway%2C%20Ethiopia!5e1!3m2!1sen!2suk!4v1778659238054!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                   </div>
+                    </div>
                 </div>
                 <div>
-                    test sidebar
-                </div>
-                <div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.5741645301714!2d38.71541254441662!3d7.918675969982824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17b49c6011ac0c85%3A0xbe2874ddcd7fa6f7!2sZiway%2C%20Ethiopia!5e1!3m2!1sen!2suk!4v1778659238054!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
                 </div>
             </div>
         </Section>
